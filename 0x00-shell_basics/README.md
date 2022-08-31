@@ -1,1 +1,0 @@
-Bash basics course
